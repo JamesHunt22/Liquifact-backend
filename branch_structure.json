@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "security/issue-1324-make-failure-recovery-deterministic-in-src",
+    "security/issue-1356-preserve-compatibility-contracts-in-src-dto"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "security/issue-1324-make-failure-recovery-deterministic-in-src": "main",
+    "security/issue-1356-preserve-compatibility-contracts-in-src-dto": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "security/issue-1324-make-failure-recovery-deterministic-in-src",
+    "security/issue-1356-preserve-compatibility-contracts-in-src-dto"
+  ]
+}
